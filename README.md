@@ -10,7 +10,7 @@ Our pilot research will investigate the temporal and spatial legacy of a landmar
 
 ### People
 
-*Legacies of Catalogue Descriptions* is a collaboration between the **[Sussex Humanities Lab](http://www.sussex.ac.uk/shl/)**, the **[British Library](https://www.bl.uk/)**, the **[Lewis Walpole Library](https://walpole.library.yale.edu/)**, and the **[Digital Humanities Laboratory](https://dhlab.yale.edu/) at [Yale University](https://www.yale.edu/)[Library](https://web.library.yale.edu/)**.
+*Legacies of Catalogue Descriptions* is a collaboration between the **[Sussex Humanities Lab](http://www.sussex.ac.uk/shl/)**, the **[British Library](https://www.bl.uk/)**, the **[Lewis Walpole Library](https://walpole.library.yale.edu/)**, and **[Yale University](https://www.yale.edu/) [Library](https://web.library.yale.edu/)**.
 
 The project is led by **[James Baker](http://www.sussex.ac.uk/profiles/371022)**, Senior Lecturer in Digital History and Archives at the [School of History, Art History and Philosophy](http://www.sussex.ac.uk/hahp/), [University of Sussex](http://www.sussex.ac.uk/). James has a background in the history of the printed image, archival theory, art history, and computational analysis. He is author of *The Business of Satirical Prints in Late-Georgian England* ([2017](https://www.palgrave.com/de/book/9783319499888)), the first monograph on the infrastructure of the satirical print trade circa 1770-1830, and led the British Academy funded *[Curatorial Voice](https://github.com/CuratorialVoice)* project.
 
@@ -20,7 +20,7 @@ The project Co-Investigator is **[Rossitza Atanassova](https://www.bl.uk/people/
 
 **[Cynthia Roman](https://walpole.library.yale.edu/people/cynthia-roman)** is Curator Prints, Drawings, & Paintings at the [Lewis Walpole Library](https://walpole.library.yale.edu/) and a leading expert in long-eighteenth century British visual satire, including the 2016 volume [*Hogarth’s Legacy*](https://www.worldcat.org/title/hogarths-legacy/oclc/952075179&referer=brief_results).
 
-**[Peter Leonard](https://www.pleonard.net/)** is Director of the [Digital Humanities Laboratory](https://dhlab.yale.edu/) at [Yale University](https://www.yale.edu/)[Library](https://web.library.yale.edu/) and an expert in Scandinavian literary studies.
+**[Peter Leonard](https://www.pleonard.net/)** is Director of the [Digital Humanities Laboratory](https://dhlab.yale.edu/) at [Yale University](https://www.yale.edu/) [Library](https://web.library.yale.edu/) and an expert in Scandinavian literary studies.
 
 **[Douglas Duhaime](https://douglasduhaime.com/)** is Digital Humanities Developer at the [Yale DHLab](https://dhlab.yale.edu/) ans a scholar of eighteenth-century print culture.
 
