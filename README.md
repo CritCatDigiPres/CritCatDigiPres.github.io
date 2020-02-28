@@ -29,6 +29,10 @@ The project Co-Investigator is **[Rossitza Atanassova](https://www.bl.uk/people/
 
 Over the course of the project, we will run two capability building workshops and a partnership development workshop. Contact **[James](http://www.sussex.ac.uk/profiles/371022)** for more information.
 
+#### Legacies of Catalogue Descriptions and Curatorial Voice: analysis + practice (11 May 2020, British Library)
+
+In this workshop we will explore how to use computational analysis to determine the linguistic 'features' of legacy catalogue descriptions, and the practical applications of these methods in cataloguing and curatorial practice. *More details soon!*
+
 ### Funding
 
 *Legacies of Catalogue Descriptions and Curatorial Voice: Opportunities for Digital Scholarship* is funded under the Arts and Humanities Research Council (UK) "[UK-US Collaboration for Digital Scholarship in Cultural Institutions: Partnership Development Grants](https://ahrc.ukri.org/funding/apply-for-funding/current-opportunities/uk-us-collaboration-for-digital-scholarship-in-cultural-institutions-partnership-development-grants-opportunity/)" scheme. Project Reference [AH/T013036/1](https://gtr.ukri.org/projects?ref=AH%2FT013036%2F1). Funding value £80,602. The project is live between 10 February 2020 and 9 February 2021.
