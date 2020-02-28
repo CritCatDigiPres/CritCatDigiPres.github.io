@@ -31,7 +31,9 @@ Over the course of the project, we will run two capability building workshops an
 
 > **Catalogue Descriptions and Curatorial Voice: analysis + practice (11 May 2020, British Library)**
 
-> In this workshop we will explore how to use computational analysis to determine the linguistic 'features' of legacy catalogue descriptions, and the practical applications of these methods in cataloguing and curatorial practice. *More details soon! To hold a place at this free event, please contact [James](http://www.sussex.ac.uk/profiles/371022)*
+> In this workshop we will explore how to use computational analysis to determine the linguistic 'features' of legacy catalogue descriptions, and the practical applications of these methods in cataloguing and curatorial practice.
+
+> *More details soon! To hold a place at this free event, please contact [James](http://www.sussex.ac.uk/profiles/371022)*
 
 ### Funding
 
