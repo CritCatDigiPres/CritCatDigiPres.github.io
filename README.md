@@ -29,9 +29,9 @@ The project Co-Investigator is **[Rossitza Atanassova](https://www.bl.uk/people/
 
 Over the course of the project, we will run two capability building workshops and a partnership development workshop. Contact **[James](http://www.sussex.ac.uk/profiles/371022)** for more information.
 
-> **Catalogue Descriptions and Curatorial Voice: analysis + practice (11 May 2020, British Library)**
+> ~~Catalogue Descriptions and Curatorial Voice: analysis + practice (11 May 2020, British Library)~~
 
-> *This event has been cancelled due to the Covid-19 outbreak*
+> **This event has been cancelled due to the Covid-19 outbreak**
 
 > In this workshop we will explore how to use computational analysis to determine the linguistic 'features' of legacy catalogue descriptions, and the practical applications of these methods in cataloguing and curatorial practice.
 
