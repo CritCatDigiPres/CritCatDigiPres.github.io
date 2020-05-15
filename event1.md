@@ -11,7 +11,7 @@ ______
 
 Each standalone session will provide instruction in using [AntConc](http://www.laurenceanthony.net/software/antconc/) and approaches from computational linguistics for the purposes of examining catalogue data to enable important catalogue related work. In the sessions (delivered in a '[Carpentries](https://carpentries.org/)' style) we will work through one component of our in-development training materials, and seek feedback in order to better understand the needs of community and further develop our training offer.
 
-If you'd like to attend one of these two training events, please contact [James](http://www.sussex.ac.uk/profiles/371022)*
+*If you'd like to attend one of these two training events, please contact [James](http://www.sussex.ac.uk/profiles/371022)*
 
 ______
 ### Schedule
