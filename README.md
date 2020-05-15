@@ -27,15 +27,13 @@ The project Co-Investigator is **[Rossitza Atanassova](https://www.bl.uk/people/
 
 ### Events
 
-Over the course of the project, we will run two capability building workshops and a partnership development workshop. Contact **[James](http://www.sussex.ac.uk/profiles/371022)** for more information.
+Over the course of the project, we had planned to run two capability building workshops and a partnership development workshop. Then Covid-19 hit, and we were forced to change our plans. Contact **[James](http://www.sussex.ac.uk/profiles/371022)** for more information.
 
-> ~~Catalogue Descriptions and Curatorial Voice: analysis + practice (11 May 2020, British Library)~~
+> **Computational Analysis of Catalogue Data: ad hoc training (3 & 9 July 2020)**
 
-> **This event has been cancelled due to the Covid-19 outbreak**
+> Each standalone session will provide instruction in using AntConc and approaches from computational linguistics for the purposes of examining catalogue data to enable important catalogue related work
 
-> In this workshop we will explore how to use computational analysis to determine the linguistic 'features' of legacy catalogue descriptions, and the practical applications of these methods in cataloguing and curatorial practice.
-
-> *More details soon! To hold a place at this free event, please contact [James](http://www.sussex.ac.uk/profiles/371022)*
+> See the [event page](https://cataloguelegacies.github.io/antconc-training) for further details.
 
 ### Funding
 
