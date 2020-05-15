@@ -16,10 +16,10 @@ If you'd like to attend one of these two training events, please contact [James]
 ______
 ### Schedule
 
-14:30 Setup time
-15:00 Computational Analysis of Catalogue Data with AntConc
-16:15 Discussion and feedback
-16:30 Close
+- 14:30 Setup time
+- 15:00 Computational Analysis of Catalogue Data with AntConc
+- 16:15 Discussion and feedback
+- 16:30 Close
 
 ______
 ### Venue
