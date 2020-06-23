@@ -16,7 +16,7 @@ Each standalone session will provide instruction in using [AntConc](http://www.l
 ______
 ### Schedule
 
-- 14:30 [Setup](https://cataloguelegacies.github.io/antconc.github.io/setup.html) time
+- 14:30 Introductions and [Setup](https://cataloguelegacies.github.io/antconc.github.io/setup.html) time
 	- To complete this lesson you will need to install [AntConc](http://www.laurenceanthony.net/software/antconc/) and download the file [BM-MDG.zip](https://github.com/CatalogueLegacies/antconc.github.io/blob/gh-pages/data/BM-MDG.zip). See the module [Setup](https://cataloguelegacies.github.io/antconc.github.io/setup.html) page for more information.
 - 15:00 [Computational Analysis of Catalogue Data with AntConc](https://cataloguelegacies.github.io/antconc.github.io)
 - 16:15 Discussion and feedback
