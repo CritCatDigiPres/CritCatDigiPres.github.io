@@ -16,7 +16,7 @@ Each standalone session will provide instruction in using [AntConc](http://www.l
 ______
 ### Schedule
 
-- 14:30 Setup time
+- 14:30 [Setup](https://cataloguelegacies.github.io/antconc.github.io/setup.html) time
 - 15:00 Computational Analysis of Catalogue Data with AntConc
 - 16:15 Discussion and feedback
 - 16:30 Close
@@ -24,6 +24,15 @@ ______
 ______
 ### Venue
 
-Online, TBC
+Online (Zoom, link to be sent to participants)
+
+______
+### Training materials
+
+The module Computational Analysis of Catalogue Data can be found at [https://cataloguelegacies.github.io/antconc.github.io/](https://cataloguelegacies.github.io/antconc.github.io/)
+
+Suggested citation:
+
+> James Baker, Rossitza Atanassova, Andrew Salway (2020). Computational Analysis of Catalogue Data (Version v2020.06.23). 
 
 [back](./)
