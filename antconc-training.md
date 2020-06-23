@@ -17,7 +17,8 @@ ______
 ### Schedule
 
 - 14:30 [Setup](https://cataloguelegacies.github.io/antconc.github.io/setup.html) time
-- 15:00 Computational Analysis of Catalogue Data with AntConc
+	- To complete this lesson you will need to install [AntConc](http://www.laurenceanthony.net/software/antconc/) and download the file [BM-MDG.zip](https://github.com/CatalogueLegacies/antconc.github.io/blob/gh-pages/data/BM-MDG.zip). See the module [Setup](https://cataloguelegacies.github.io/antconc.github.io/setup.html) page for more information.
+- 15:00 [Computational Analysis of Catalogue Data with AntConc](https://cataloguelegacies.github.io/antconc.github.io)
 - 16:15 Discussion and feedback
 - 16:30 Close
 
@@ -29,7 +30,7 @@ Online (Zoom, link to be sent to participants)
 ______
 ### Training materials
 
-The module Computational Analysis of Catalogue Data can be found at [https://cataloguelegacies.github.io/antconc.github.io/](https://cataloguelegacies.github.io/antconc.github.io/)
+The module Computational Analysis of Catalogue Data can be found at [https://cataloguelegacies.github.io/antconc.github.io/](https://cataloguelegacies.github.io/antconc.github.io/).
 
 Suggested citation:
 
