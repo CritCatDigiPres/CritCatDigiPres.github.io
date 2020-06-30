@@ -21,7 +21,7 @@ ______
 	- [How we will deliver online training](https://github.com/CatalogueLegacies/antconc.github.io/issues/28).
 	- [Code of Conduct](https://cataloguelegacies.github.io/coc).
 - 15:00 [Computational Analysis of Catalogue Data with AntConc](https://cataloguelegacies.github.io/antconc.github.io)
-- 16:15 Discussion and feedback
+- 16:15 Discussion and [feedback](https://docs.google.com/forms/d/e/1FAIpQLSdthDyMEAmiL5uY2GTov5OSKSw4HbpBN2A_-LbCOHDkbwVaKQ/viewform)
 - 16:30 Close
 
 ______
