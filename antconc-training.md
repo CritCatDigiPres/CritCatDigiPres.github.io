@@ -14,7 +14,7 @@ Each standalone session will provide instruction in using [AntConc](http://www.l
 *If you'd like to attend one of these two training events, please contact [James](http://www.sussex.ac.uk/profiles/371022)*
 
 ______
-### Schedule
+### Schedule (all times [BST](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200709T1330))
 
 - 14:30 Introductions and [Setup](https://cataloguelegacies.github.io/antconc.github.io/setup.html) time
 	- To complete this lesson you will need to install [AntConc](http://www.laurenceanthony.net/software/antconc/) and download the file [BM-MDG.zip](https://github.com/CatalogueLegacies/antconc.github.io/blob/gh-pages/data/BM-MDG.zip). See the module [Setup](https://cataloguelegacies.github.io/antconc.github.io/setup.html) page for more information.
