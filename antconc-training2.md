@@ -4,7 +4,7 @@ layout: default
 
 # Computational Analysis of Catalogue Data
 
-## TBC December 2020
+## 16 December 2020
 
 ______
 ### Overview
