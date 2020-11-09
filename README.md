@@ -29,7 +29,7 @@ The project Co-Investigator is **[Rossitza Atanassova](https://www.bl.uk/people/
 
 Over the course of the project, we had planned to run two capability building workshops and a partnership development workshop. Then Covid-19 hit, and we were forced to change our plans. Contact **[James](http://www.sussex.ac.uk/profiles/371022)** for more information.
 
-> **Computational Analysis of Catalogue Data (TBC Dec 2020)**
+> **Computational Analysis of Catalogue Data (16 Dec 2020)**
 
 > This half-day training event will provide instruction in using AntConc and approaches from computational linguistics for the purposes of examining catalogue data to enable important catalogue related work. Numbers are capped at 30, so please register in advance.
 
