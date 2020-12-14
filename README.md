@@ -20,7 +20,14 @@ The project Co-Investigator is **[Rossitza Atanassova](https://www.bl.uk/people/
 
 **[Cynthia Roman](https://walpole.library.yale.edu/people/cynthia-roman)** is Curator Prints, Drawings, & Paintings at the [Lewis Walpole Library](https://walpole.library.yale.edu/), a unit of Yale University Library, and a leading expert in long-eighteenth century British visual satire, including the 2016 volume [*Hogarth’s Legacy*](https://www.worldcat.org/title/hogarths-legacy/oclc/952075179&referer=brief_results).
 
-### Datasets
+### Publications
+
+#### Papers
+
+- James Baker and Andrew Salway, ‘Curatorial labour, voice and legacy: Mary Dorothy George and the Catalogue of Political and Personal Satires, 1930–54’, *Historical Research* ([2020](https://doi.org/10.1093/hisres/htaa026))
+- Andrew Salway and James Baker, ‘Investigating Curatorial Voice with Corpus Linguistic Techniques: the case of Dorothy George and applications in museological practice’, *Museum & Society* ([2020](http://sro.sussex.ac.uk/id/eprint/89738/))
+
+#### Datasets
 
 - Baker, James, & Salway, Andrew. (2019). Creation of the BMSatire Descriptions corpus (Version v1.0). Zenodo. [doi.org/10.5281/zenodo.3245037](http://doi.org/10.5281/zenodo.3245037) ([Creative Commons Attribution Non Commercial Share Alike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode))
 - Baker, James, & Salway, Andrew. (2019). Corpus Linguistic Analysis of the BMSatire Descriptions corpus [Data set]. Zenodo. [doi.org/10.5281/zenodo.3245017](http://doi.org/10.5281/zenodo.3245017) ([Creative Commons Attribution Non Commercial Share Alike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode))
