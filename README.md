@@ -32,6 +32,10 @@ The project Co-Investigator is **[Rossitza Atanassova](https://www.bl.uk/people/
 - Baker, James, & Salway, Andrew. (2019). Creation of the BMSatire Descriptions corpus (Version v1.0). Zenodo. [doi.org/10.5281/zenodo.3245037](http://doi.org/10.5281/zenodo.3245037) ([Creative Commons Attribution Non Commercial Share Alike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode))
 - Baker, James, & Salway, Andrew. (2019). Corpus Linguistic Analysis of the BMSatire Descriptions corpus [Data set]. Zenodo. [doi.org/10.5281/zenodo.3245017](http://doi.org/10.5281/zenodo.3245017) ([Creative Commons Attribution Non Commercial Share Alike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode))
 
+#### Experiments
+
+- simGeorge v0.1: [A machine that writes like Mary Dorothy George](https://cradledincaricature.com/2020/06/18/mary-dorothy-george/).
+
 ### Events
 
 Over the course of the project, we had planned to run two capability building workshops and a partnership development workshop. Then Covid-19 hit, and we were forced to change our plans. Contact **[James](http://www.sussex.ac.uk/profiles/371022)** for more information.
