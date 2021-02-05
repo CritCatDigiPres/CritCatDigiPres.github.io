@@ -44,9 +44,9 @@ Over the course of the project, we had planned to run two capability building wo
 
 > **Computational Analysis of Catalogue Data (16 Dec 2020)**
 
-> This half-day training event will provide instruction in using AntConc and approaches from computational linguistics for the purposes of examining catalogue data to enable important catalogue related work. Numbers are capped at 30, so please register in advance.
+> This half-day training event provided instruction in using AntConc and approaches from computational linguistics for the purposes of examining catalogue data to enable important catalogue related work. For a report on the event see the [British Library Digital Scholarship Blog](https://blogs.bl.uk/digital-scholarship/2021/02/legacies-of-catalogue-descriptions-and-curatorial-voice-training-materials-and-next-steps.html).
 
-> See the [event page](https://cataloguelegacies.github.io/antconc-training2) for further details and how to register.
+> See the [event page](https://cataloguelegacies.github.io/antconc-training2) for further details.
 
 > **Computational Analysis of Catalogue Data: ad hoc training (3 & 9 July 2020)**
 
