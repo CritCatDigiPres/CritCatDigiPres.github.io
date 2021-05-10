@@ -1,6 +1,6 @@
 ## Legacies of Catalogue Descriptions and Curatorial Voice: Opportunities for Digital Scholarship
 
-This 12-month project will develop a platform for a transformational impact in digital scholarship within cultural institutions by opening up new and important directions for computational, critical, and curatorial analysis of collection catalogues. Extensive digital and digitised sets of curatorial descriptions from legacy catalogues are increasingly available. We seek to realise their potential as valuable resources for cross-disciplinary research into curatorial practice, and for enhancing access to and analysis of collections at scale.
+This project will develop a platform for a transformational impact in digital scholarship within cultural institutions by opening up new and important directions for computational, critical, and curatorial analysis of collection catalogues. Extensive digital and digitised sets of curatorial descriptions from legacy catalogues are increasingly available. We seek to realise their potential as valuable resources for cross-disciplinary research into curatorial practice, and for enhancing access to and analysis of collections at scale.
 
 Our pilot research will investigate the temporal and spatial legacy of a landmark catalogue: the 1.1 million word British Museum '[Catalogue of Political and Personal Satires](https://en.wikipedia.org/wiki/Catalogue_of_Political_and_Personal_Satires_Preserved_in_the_Department_of_Prints_and_Drawings_in_the_British_Museum)', which is the basis of related catalogue data at the Lewis Walpole Library and the British Library. Alongside this research we will:
 
@@ -60,7 +60,7 @@ Over the course of the project, we had planned to run two capability building wo
 
 ### Funding
 
-*Legacies of Catalogue Descriptions and Curatorial Voice: Opportunities for Digital Scholarship* is funded under the Arts and Humanities Research Council (UK) "[UK-US Collaboration for Digital Scholarship in Cultural Institutions: Partnership Development Grants](https://ahrc.ukri.org/funding/apply-for-funding/current-opportunities/uk-us-collaboration-for-digital-scholarship-in-cultural-institutions-partnership-development-grants-opportunity/)" scheme. Project Reference [AH/T013036/1](https://gtr.ukri.org/projects?ref=AH%2FT013036%2F1). Funding value £80,602. The project is live between 10 February 2020 and 9 February 2021.
+*Legacies of Catalogue Descriptions and Curatorial Voice: Opportunities for Digital Scholarship* is funded under the Arts and Humanities Research Council (UK) "[UK-US Collaboration for Digital Scholarship in Cultural Institutions: Partnership Development Grants](https://ahrc.ukri.org/funding/apply-for-funding/current-opportunities/uk-us-collaboration-for-digital-scholarship-in-cultural-institutions-partnership-development-grants-opportunity/)" scheme. Project Reference [AH/T013036/1](https://gtr.ukri.org/projects?ref=AH%2FT013036%2F1). Funding value £80,602. The project is live between 10 February 2020 and 9 March 2022.
 
 ### Open
 
