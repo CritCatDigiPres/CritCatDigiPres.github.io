@@ -11,7 +11,7 @@ ______
 
 This workshop will disseminate work-in-progress outputs from the *[Legacies of Catalogue Descriptions and Curatorial Voice: Opportunities for Digital Scholarship](https://cataloguelegacies.github.io/)* project and work with participants to develop next steps.
 
-*booking page coming*
+To book your spot or ask questions, please head to our [gath.io page](https://gath.io/b9zgBfuWkBqH6ltJS1kAM).
 
 ______
 ### Schedule (all times [UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20201216T1330))
@@ -23,7 +23,7 @@ ______
 ______
 ### Venue
 
-Online (Zoom, link to be sent to participants)
+Online (Zoom via our [gath.io page](https://gath.io/b9zgBfuWkBqH6ltJS1kAM))
 
 
 [back](./)
