@@ -19,7 +19,7 @@ ______
 - **13:00 Short Reports on outputs**
   - James Baker (Sussex) - *Why research the histories of cataloguing? Legacy records, contemporary machines, and future harms*
   - Rossitza Atanassova (British Library) - *Computational Analysis of Catalogue Data: opportunities for cultural heritage institutions*
-  - Cynthia Roman (Lewis Walpole Library - *Investigating the History of Cataloguing at the Lewis Walpole Library*
+  - Cynthia Roman (Lewis Walpole Library) - *Investigating the History of Cataloguing at the Lewis Walpole Library*
   - Jake Kara / Peter Leonard (Yale DH Lab) - *simGeorge: Writing Imaginary Descriptions of Imaginary Objects*
   - Andrew Salway (Sussex) - *Detecting Transmission between Catalogues*
 - **14:00 Hands-on / Discussion forums**
