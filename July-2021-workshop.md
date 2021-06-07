@@ -9,7 +9,7 @@ layout: default
 ______
 ### Overview
 
-This workshop will disseminate work-in-progress outputs from the *[Legacies of Catalogue Descriptions and Curatorial Voice: Opportunities for Digital Scholarship](https://cataloguelegacies.github.io/)* project and work with participants to develop next steps.
+This workshop provides an opportunity to discuss work-in-progress outputs from the *[Legacies of Catalogue Descriptions and Curatorial Voice: Opportunities for Digital Scholarship](https://cataloguelegacies.github.io/)* project and to work together to develop next steps.
 
 To book your spot or ask questions, please head to our [gath.io page](https://gath.io/b9zgBfuWkBqH6ltJS1kAM).
 
