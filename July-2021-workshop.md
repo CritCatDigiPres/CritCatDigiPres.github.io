@@ -11,7 +11,7 @@ ______
 
 This workshop provides an opportunity to discuss work-in-progress outputs from the *[Legacies of Catalogue Descriptions and Curatorial Voice: Opportunities for Digital Scholarship](https://cataloguelegacies.github.io/)* project and to work together to develop next steps.
 
-To book your spot or ask questions, please head to our [gath.io page](https://gath.io/b9zgBfuWkBqH6ltJS1kAM).
+**To book your spot or ask questions, please head to our [gath.io page](https://gath.io/b9zgBfuWkBqH6ltJS1kAM).**
 
 ______
 ### TBC Schedule (all times [UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20201216T1330))
