@@ -21,7 +21,7 @@ ______
   - Rossitza Atanassova (British Library) - *Computational Analysis of Catalogue Data: opportunities for cultural heritage institutions*
   - Cynthia Roman (Lewis Walpole Library) - *Investigating the History of Cataloguing at the Lewis Walpole Library*
   - Jake Kara / Peter Leonard (Yale DH Lab) - *simCataloguer: Writing Imaginary Descriptions of Imaginary Objects*
-  - Andrew Salway (Sussex) - *Detecting Transmission between Catalogues* **[click here to view the talk](https://www.youtube.com/watch?v=VXVb0YwX3w8)**
+  - Andrew Salway (Sussex) - *Detecting Transmission between Catalogues* (**[click here to view the talk](https://www.youtube.com/watch?v=VXVb0YwX3w8)**)
 - **14:00 Hands-on / Discussion forums**
   - An intro to the '[Computational Analysis of Catalogue Data](https://cataloguelegacies.github.io/antconc.github.io/)' module
       - [tool](https://www.laurenceanthony.net/software/antconc/) + [dataset](https://github.com/CatalogueLegacies/antconc.github.io/blob/gh-pages/data/IAMS_Photographs_1850-1950_selection3.txt) + [example output](https://drive.google.com/file/d/13AJAsJz0kfhMKRB4jtdvtGUxFO0LcjMf/view)
