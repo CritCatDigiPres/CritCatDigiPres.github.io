@@ -24,8 +24,9 @@ ______
   - Andrew Salway (Sussex) - *Detecting Transmission between Catalogues*
 - **14:00 Hands-on / Discussion forums**
   - An intro to the '[Computational Analysis of Catalogue Data](https://cataloguelegacies.github.io/antconc.github.io/)' module
+      - [tool](https://www.laurenceanthony.net/software/antconc/) + [dataset](https://github.com/CatalogueLegacies/antconc.github.io/blob/gh-pages/data/IAMS_Photographs_1850-1950_selection3.txt) + [example output](https://drive.google.com/file/d/13AJAsJz0kfhMKRB4jtdvtGUxFO0LcjMf/view)
   - Reading simCataloguer
-  - Presenting Legacy Descriptions
+  - Presenting Legacy Descriptions ([worksheet](https://github.com/CatalogueLegacies/CatalogueLegacies.github.io/blob/master/pubs/2021_legacies-showcase_breakout3_presenting-legacy-descriptions.pdf))
 - **15:00 Q&A + next steps**
 
 ______
