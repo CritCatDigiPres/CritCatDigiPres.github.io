@@ -14,7 +14,7 @@ This workshop provides an opportunity to discuss work-in-progress outputs from t
 **To book your spot or ask questions, please head to our [gath.io page](https://gath.io/b9zgBfuWkBqH6ltJS1kAM).**
 
 ______
-### TBC Schedule (all times [UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20201216T1330))
+### Schedule (all times [UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210727T1300))
 
 - **13:00 Short Reports on outputs**
   - James Baker (Sussex) - *Why research the histories of cataloguing? Legacy records, contemporary machines, and future harms*
