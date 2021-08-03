@@ -31,6 +31,8 @@ The project Co-Investigator is **[Rossitza Atanassova](https://www.bl.uk/people/
 #### Training materials
 
 - James Baker, Rossitza Atanassova, Andrew Salway, *Computational Analysis of Catalogue Data (Version v2021.02.05)* ([2021](https://cataloguelegacies.github.io/antconc.github.io/))
+- *Worksheet: Reading simCataloguer* ([2021](https://github.com/CatalogueLegacies/CatalogueLegacies.github.io/blob/master/pubs/2021-08_legacies-worksheet_reading-sim-cataloguer.pdf))
+- *Worksheet: Presenting Legacy Descriptions* ([2021](https://github.com/CatalogueLegacies/CatalogueLegacies.github.io/blob/master/pubs/2021-08_legacies-worksheet_presenting-legacy-descriptions.pdf))
 
 #### Datasets
 
