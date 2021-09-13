@@ -24,6 +24,7 @@ The project Co-Investigator is **[Rossitza Atanassova](https://www.bl.uk/people/
 
 #### Papers
 
+- 'Workshop Report. Legacies of Catalogue Descriptions: outputs and next steps' ([2021](https://github.com/CatalogueLegacies/CatalogueLegacies.github.io/blob/master/pubs/2021-09_legacies-showcase_report.pdf))
 - James Baker, ‘Presenting Legacy Descriptions – a provocation‘ ([2021](https://github.com/CatalogueLegacies/CatalogueLegacies.github.io/blob/master/pubs/2021-02_Presenting-Legacy-Descriptions_provocation.pdf))
 - James Baker and Andrew Salway, ‘Curatorial labour, voice and legacy: Mary Dorothy George and the Catalogue of Political and Personal Satires, 1930–54’, *Historical Research* ([2020](https://doi.org/10.1093/hisres/htaa026))
 - Andrew Salway and James Baker, ‘Investigating Curatorial Voice with Corpus Linguistic Techniques: the case of Dorothy George and applications in museological practice’, *Museum & Society* ([2020](http://sro.sussex.ac.uk/id/eprint/89738/))
