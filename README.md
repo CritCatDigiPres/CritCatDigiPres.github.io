@@ -48,6 +48,14 @@ The project Co-Investigator is **[Rossitza Atanassova](https://www.bl.uk/people/
 
 ### Events
 
+#### Upcoming
+
+> **Legacies of Catalogue Descriptions: prioritising agendas and actions (4 February 2021)
+
+> Focusing on the futures for legacy catalogue data, this workshop will set shared agendas and agree next steps.
+
+> See the [event page](https://cataloguelegacies.github.io/agendas-actions) for further details.
+
 #### Past
 
 > **Legacies of Catalogue Descriptions: outputs and next steps (27 July 2021)**
@@ -56,7 +64,7 @@ The project Co-Investigator is **[Rossitza Atanassova](https://www.bl.uk/people/
 
 > See the [event page](https://cataloguelegacies.github.io/July-2021-workshop) for further details.
 
-Over the course of the project, we had planned to run two capability building workshops and a partnership development workshop. Then Covid-19 hit, and we were forced to change our plans. Contact **[James](http://www.sussex.ac.uk/profiles/371022)** for more information.
+Over the course of the project, we had planned to run two capability building workshops and a partnership development workshop. Then Covid-19 hit, and we were forced to change our plans. Contact **[James](https://www.southampton.ac.uk/humanities/about/staff/jwb1n21.page)** for more information.
 
 > **Computational Analysis of Catalogue Data (16 Dec 2020)**
 
