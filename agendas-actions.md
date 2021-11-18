@@ -24,7 +24,7 @@ ______
 
 Numbers will be capped at roughly 15 attendees for whom, within reason, all travel and accommodation expenses will be covered.
 
-**To book your free place, please write to [James](https://www.southampton.ac.uk/humanities/about/staff/jwb1n21.page) - at j.w.baker@soton.ac.uk - including a brief statement on your interest in the theme of the day**
+- To book your free place, please write to [James](https://www.southampton.ac.uk/humanities/about/staff/jwb1n21.page) - at j.w.baker@soton.ac.uk - including a brief statement on your interest in the theme of the day
 
 #### Online event
 
