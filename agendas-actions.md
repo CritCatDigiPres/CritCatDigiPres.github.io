@@ -13,7 +13,9 @@ ______
 
 The past, present, and future of anglophone cataloguing, including their spatial and temporal resonances, has for the 'Legacies' team provided a focal point for research, technological experimentation, the development of training materials, and partnership development. At our workshops, talks, and discussion forums, we have benefited from the insight, curiosity, and enthusiasm of colleagues across the cultural heritage sector committed to investigating the inequities in legacies catalogue data and to mitigating their harms.
 
-Now, as our current round of funding draws to a close, we invite members of that community to join us to set shared agendas and agree next steps. We will ask where we should focus our collective resources, what things we need to work differently, and the role of computational technologies in both shaping and constraining action. Both events will work towards a co-produced output: an infographic explaining the problem area, our shared priorities, and the next steps the community should take.
+Now, as our current round of funding draws to a close, we invite members of that community to join us to set shared agendas and agree next steps. We will ask where we should focus our collective resources, what things we need to work differently, and the role of computational technologies in both shaping and constraining action. 
+
+Both events will work towards a single co-produced output: an infographic explaining the problem area, our shared priorities, and the next steps for action.
 
 ______
 ### Booking
