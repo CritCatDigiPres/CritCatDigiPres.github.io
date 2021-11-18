@@ -50,9 +50,9 @@ The project Co-Investigator is **[Rossitza Atanassova](https://www.bl.uk/people/
 
 #### Upcoming
 
-> **Legacies of Catalogue Descriptions: prioritising agendas and actions (4 February 2021)**
+> **Legacies of Catalogue Descriptions: prioritising agendas and actions (February 2021)**
 
-> Focusing on the futures for legacy catalogue data, this workshop will set shared agendas and agree next steps.
+> Focusing on the futures for legacy catalogue data, these two workshops will set shared agendas and next steps.
 
 > See the [event page](https://cataloguelegacies.github.io/agendas-actions) for further details.
 
