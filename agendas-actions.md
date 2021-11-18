@@ -4,9 +4,9 @@ layout: default
 
 # Legacies of Catalogue Descriptions: prioritising agendas and actions
 
-## UK-event: 4 February 2021 (Digital Humanities Hub, University of Southampton)
+## 4 February 2021 (Digital Humanities Hub, University of Southampton)
 
-## US-event: TBC Febraury 2021 (online, US timezones friendly)
+## TBC Febraury 2021 (online, US timezones friendly)
 
 ______
 ### Overview
@@ -18,13 +18,13 @@ Now, as our current round of funding draws to a close, we invite members of that
 ______
 ### Booking
 
-#### UK-event
+#### UK-based event
 
 Numbers will be capped at roughly 15 attendees for whom, within reason, all travel and accommodation expenses will be covered.
 
 **To book your free place, please write to [James](https://www.southampton.ac.uk/humanities/about/staff/jwb1n21.page) - at j.w.baker@soton.ac.uk - including a brief statement on your interest in the theme of the day**
 
-#### US-event
+#### Online event
 
 Booking details forthcoming.
 
