@@ -15,7 +15,7 @@ The past, present, and future of anglophone cataloguing, including their spatial
 
 Now, as our current round of funding draws to a close, we invite members of that community to join us to set shared agendas and agree next steps. We will ask where we should focus our collective resources, what things we need to work differently, and the role of computational technologies in both shaping and constraining action. 
 
-Both events will work towards a single co-produced output: an infographic explaining the problem area, our shared priorities, and the next steps for action.
+Both events will work towards a single co-produced output: an infographic explaining the problem area, our shared priorities, and the next steps for action, the production of which will be supported by [Lucy Havens](https://ljhavens.myportfolio.com/).
 
 ______
 ### Booking
