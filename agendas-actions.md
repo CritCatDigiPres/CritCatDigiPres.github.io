@@ -4,9 +4,9 @@ layout: default
 
 # Legacies of Catalogue Descriptions: prioritising agendas and actions
 
-## 4 February 2021 (Digital Humanities Hub, University of Southampton)
+## 4 February 2022 (Digital Humanities Hub, University of Southampton)
 
-## TBC Febraury 2021 (online, US timezones friendly)
+## TBC Febraury 2022 (online, US timezones friendly)
 
 ______
 ### Overview
