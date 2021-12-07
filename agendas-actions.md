@@ -26,8 +26,10 @@ Numbers will be capped at roughly 15 attendees for whom, within reason, all trav
 
 - To book your free place, please write to [James](https://www.southampton.ac.uk/humanities/about/staff/jwb1n21.page) - at j.w.baker@soton.ac.uk - including a brief statement on your interest in the theme of the day
 
-#### Online event
+#### US-timezone event
 
-Booking details forthcoming.
+This event will narrow our focus in two ways. First, to free-text descriptions of visual collections, a domain where archaic, offensive, and harmful language and language structures that perpetuate inequality are commonly found. Second, to reparative cataloguing, and in particular the implications of reparative work in a domain where the style of landmark catalogues or cataloguers continues to resonate for many years after their work was completed or published.
+
+Booking details are forthcoming.
 
 [back](./)
