@@ -6,7 +6,7 @@ layout: default
 
 ## 4 February 2022 (Digital Humanities Hub, University of Southampton)
 
-## TBC Febraury 2022 (online, US timezones friendly)
+## TBC February 2022 (online, US timezones friendly)
 
 ______
 ### Overview
