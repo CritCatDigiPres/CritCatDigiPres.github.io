@@ -6,7 +6,7 @@ layout: default
 
 ## 4 February 2022 (Digital Humanities Hub, University of Southampton)
 
-## TBC February 2022 (online, US timezones friendly)
+## 11 February 2022 (online, US timezones friendly)
 
 ______
 ### Overview
@@ -28,7 +28,7 @@ Numbers will be capped at roughly 15 attendees for whom, within reason, all trav
 
 #### US-timezone event
 
-This event will narrow our focus in two ways. First, to free-text descriptions of visual collections, a domain where archaic, offensive, and harmful language and language structures that perpetuate inequality are commonly found. Second, to reparative cataloguing, and in particular the implications of reparative work in a domain where the style of landmark catalogues or cataloguers continues to resonate for many years after their work was completed or published.
+This event will narrow our focus in two ways. First, to free-text descriptions of visual collections, a domain where archaic, offensive, and harmful language and language structures that perpetuate inequality are commonly found. Second, to reparative cataloguing, and in particular the implications of reparative work in a domain where the style of landmark catalogues or cataloguers continues to resonate for many years after their work was completed or published. Third, to make connections between the actiond we take now and the machine-driven futures we facilitate.
 
 Booking details are forthcoming.
 
