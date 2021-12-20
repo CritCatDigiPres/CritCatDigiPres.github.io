@@ -4,9 +4,9 @@ layout: default
 
 # Legacies of Catalogue Descriptions: prioritising agendas and actions
 
-## 4 February 2022 (Digital Humanities Hub, University of Southampton)
+## 4 February 2022 (online, UK GMT friendly)
 
-## 11 February 2022 (online, US timezones friendly)
+## 11 February 2022 (online, US EST friendly)
 
 ______
 ### Overview
@@ -22,14 +22,12 @@ ______
 
 #### UK-based event
 
-Numbers will be capped at roughly 15 attendees for whom, within reason, all travel and accommodation expenses will be covered.
-
-- To book your free place, please write to [James](https://www.southampton.ac.uk/humanities/about/staff/jwb1n21.page) - at j.w.baker@soton.ac.uk - including a brief statement on your interest in the theme of the day
+Numbers will be capped at roughly 15 attendees. To book your free place, please write to [James](https://www.southampton.ac.uk/humanities/about/staff/jwb1n21.page) - at j.w.baker@soton.ac.uk - including a brief statement on your interest in the theme of the day
 
 #### US-timezone event
 
 This event will narrow our focus in two ways. First, to free-text descriptions of visual collections, a domain where archaic, offensive, and harmful language and language structures that perpetuate inequality are commonly found. Second, to reparative cataloguing, and in particular the implications of reparative work in a domain where the style of landmark catalogues or cataloguers continues to resonate for many years after their work was completed or published. Third, to make connections between the actions we take now and the machine-driven futures we facilitate.
 
-Booking details are forthcoming.
+Numbers will be capped at roughly 15 invited attendees.
 
 [back](./)
