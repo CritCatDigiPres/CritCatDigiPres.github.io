@@ -6,7 +6,7 @@ layout: default
 
 ## 4 February 2022 (online, UK GMT friendly)
 
-## 11 February 2022 (online, US EST friendly)
+## 11 February 2022 (online, [10:00-12:00 EST](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220211T1500))
 
 ______
 ### Overview
