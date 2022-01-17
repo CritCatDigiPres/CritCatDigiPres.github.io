@@ -38,6 +38,7 @@ The project Co-Investigator is **[Rossitza Atanassova](https://www.bl.uk/people/
 
 #### Datasets
 
+- Salway, Andrew, & James Baker. (2021). Analysis of transmission from BMSat to LWL (v1.0). Zenodo. [https://doi.org/10.5281/zenodo.5148228](https://doi.org/10.5281/zenodo.5148228)
 - British Library and Moretto, Nicolas. (2021) Catalogue Records of Photographs (1850-1950) [doi.org/10.23636/1345](https://doi.org/10.23636/1345) ([CC0 1.0 Universal Public Domain](https://creativecommons.org/publicdomain/zero/1.0/))
 - Baker, James, & Salway, Andrew. (2019). Creation of the BMSatire Descriptions corpus (Version v1.0). Zenodo. [doi.org/10.5281/zenodo.3245037](http://doi.org/10.5281/zenodo.3245037) ([Creative Commons Attribution Non Commercial Share Alike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode))
 - Baker, James, & Salway, Andrew. (2019). Corpus Linguistic Analysis of the BMSatire Descriptions corpus [Data set]. Zenodo. [doi.org/10.5281/zenodo.3245017](http://doi.org/10.5281/zenodo.3245017) ([Creative Commons Attribution Non Commercial Share Alike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode))
