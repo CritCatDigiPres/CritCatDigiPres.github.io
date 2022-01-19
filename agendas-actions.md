@@ -4,7 +4,7 @@ layout: default
 
 # Legacies of Catalogue Descriptions: prioritising agendas and actions
 
-## 4 February 2022 (online, UK GMT friendly)
+## 4 February 2022 (online, [10:30-12:30 GMT](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220204T1030))
 
 ## 11 February 2022 (online, [10:00-12:00 EST](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220211T1500))
 
