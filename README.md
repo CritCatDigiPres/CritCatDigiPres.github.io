@@ -22,6 +22,10 @@ The project Co-Investigator is **[Rossitza Atanassova](https://www.bl.uk/people/
 
 ### Publications
 
+#### Infographics
+
+- Lucy Havens, Legacies of Catalogue Descriptions and Curatorial Voice: Infographics ([2022](https://doi.org/10.5281/zenodo.6221868)).
+
 #### Papers
 
 - James Baker, Andrew Salway, and Cynthia Roman, 'Detecting and characterising transmission from legacy collection catalogues' (forthcoming 2022).
@@ -49,15 +53,11 @@ The project Co-Investigator is **[Rossitza Atanassova](https://www.bl.uk/people/
 
 ### Events
 
-#### Upcoming
-
 > **Legacies of Catalogue Descriptions: prioritising agendas and actions (February 2021)**
 
-> Focusing on the futures for legacy catalogue data, these two workshops will set shared agendas and next steps.
+> Focusing on the futures for legacy catalogue data, these two workshops set shared agendas and next steps.
 
 > See the [event page](https://cataloguelegacies.github.io/agendas-actions) for further details.
-
-#### Past
 
 > **Legacies of Catalogue Descriptions: outputs and next steps (27 July 2021)**
 
