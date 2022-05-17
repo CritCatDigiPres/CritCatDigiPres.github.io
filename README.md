@@ -28,7 +28,7 @@ The project Co-Investigator is **[Rossitza Atanassova](https://www.bl.uk/people/
 
 #### Papers
 
-- James Baker, Andrew Salway, and Cynthia Roman, 'Detecting and characterising transmission from legacy collection catalogues' ([2022](http://www.digitalhumanities.org/dhq/vol/16/2/000615/000615.html)).
+- James Baker, Andrew Salway, and Cynthia Roman, 'Detecting and characterising transmission from legacy collection catalogues', *Digital Humanities Quarterly* ([2022](http://www.digitalhumanities.org/dhq/vol/16/2/000615/000615.html)).
 - 'Workshop Report. Legacies of Catalogue Descriptions: outputs and next steps' ([2021](https://github.com/CatalogueLegacies/CatalogueLegacies.github.io/blob/master/pubs/2021-09_legacies-showcase_report.pdf))
 - James Baker, ‘Presenting Legacy Descriptions – a provocation‘ ([2021](https://github.com/CatalogueLegacies/CatalogueLegacies.github.io/blob/master/pubs/2021-02_Presenting-Legacy-Descriptions_provocation.pdf))
 - James Baker and Andrew Salway, ‘Curatorial labour, voice and legacy: Mary Dorothy George and the Catalogue of Political and Personal Satires, 1930–54’, *Historical Research* ([2020](https://doi.org/10.1093/hisres/htaa026))
