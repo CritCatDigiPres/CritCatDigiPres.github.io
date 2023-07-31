@@ -2,7 +2,7 @@
 
 This project is **[SPOLIERS](https://youtu.be/CGZSuWmZzo8?t=108)**.
 
-*Critical Cataloguing for Digital Preservation: a research commercialisation follow-on project* is a [Southampton Digital Humanities](https://github.com/Southampton-Digital-Humanities project. The project run between September 2023 and July 2024. The project builds on research outcomes of *Legacies of Catalogue Descriptions and Curatorial Voice: Opportunities for Digital Scholarship*, a project funded under the Arts and Humanities Research Council (UK) "[UK-US Collaboration for Digital Scholarship in Cultural Institutions: Partnership Development Grants](https://ahrc.ukri.org/funding/apply-for-funding/current-opportunities/uk-us-collaboration-for-digital-scholarship-in-cultural-institutions-partnership-development-grants-opportunity/)" scheme.
+*Critical Cataloguing for Digital Preservation: a research commercialisation follow-on project* is a [Southampton Digital Humanities](https://github.com/Southampton-Digital-Humanities) project. The project run between September 2023 and July 2024. The project builds on research outcomes of *Legacies of Catalogue Descriptions and Curatorial Voice: Opportunities for Digital Scholarship*, a project funded under the Arts and Humanities Research Council (UK) "[UK-US Collaboration for Digital Scholarship in Cultural Institutions: Partnership Development Grants](https://ahrc.ukri.org/funding/apply-for-funding/current-opportunities/uk-us-collaboration-for-digital-scholarship-in-cultural-institutions-partnership-development-grants-opportunity/)" scheme.
 
 ### People
 
