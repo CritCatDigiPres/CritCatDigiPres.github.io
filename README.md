@@ -14,7 +14,7 @@ Coming soon.
 
 ### Funding
 
-*Critical Cataloguing for Digital Preservation: a research commercialisation follow-on project* s funded under the Arts and Humanities Research Council (UK) "[UK-US Collaboration for Digital Scholarship in Cultural Institutions: Partnership Development Grants](https://ahrc.ukri.org/funding/apply-for-funding/current-opportunities/uk-us-collaboration-for-digital-scholarship-in-cultural-institutions-partnership-development-grants-opportunity/)" scheme. Project Reference TBC. Funding value £TBC. The project is live between 1 September 2023 and 31 July 2024.
+*Critical Cataloguing for Digital Preservation: a research commercialisation follow-on project* is funded under the Arts and Humanities Research Council (UK) "[Arts and Humanities-led Research Commercialisation](https://www.ukri.org/opportunity/opportunity-arts-and-humanities-led-research-commercialisation/)" scheme. Project Reference TBC. Funding value £TBC. The project is live between 1 September 2023 and 31 July 2024.
 
 ### Open
 
