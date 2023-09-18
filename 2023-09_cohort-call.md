@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Critical C
+## Call for Participants
 
 The University of Southampton is seeking up to 10 individuals from UK-based galleries, libraries, archives and museums, community heritage groups, or other related organisations who have digital preservation training, support, and advice needs to participate in the 11-month project '[Critical Cataloguing for Digital Preservation](https://critcatdigipres.github.io/)', funded by the [Arts and Humanities Research Council (UK)](https://www.ukri.org/opportunity/opportunity-arts-and-humanities-led-research-commercialisation/).
 
