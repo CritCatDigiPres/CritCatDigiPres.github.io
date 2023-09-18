@@ -2,11 +2,11 @@
 
 ### Announcements
 
-#### Call for Participants
+#### Call for Participants (1o Nov deadline)
 
-> Working with the project team, participants will explore their particular digital preservation needs, have access to advisory support, and join a final project workshop. The deadline for expressions of interest is Friday 10 November.
+Working with the project team, participants will explore their particular digital preservation needs, have access to advisory support, and join a final project workshop. The deadline for expressions of interest is Friday 10 November.
 
-> See the [call page](https://critcatdigipres.github.io/2023-09_cohort-call) for further details.
+See the [call page](https://critcatdigipres.github.io/2023-09_cohort-call) for further details.
 
 ### Project Details
 
