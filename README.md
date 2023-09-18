@@ -24,9 +24,13 @@ preservation metadata within the digital preservation lifecycle.
 
 The project is led by **[James Baker](https://www.southampton.ac.uk/people/5yrbp5/doctor-james-baker)**, Professor of Digital Humanities at the [School of Humanities](https://www.southampton.ac.uk/humanities/index.page), [University of Southampton](https://www.southampton.ac.uk/).
 
-### Events
+### Announcements
 
-Coming soon.
+#### Call for Participants
+
+> Working with the project team, participants will explore their particular digital preservation needs, have access to advisory support, and join a final project workshop. The deadline for expressions of interest is Friday 10 November.
+
+> See the [call page](https://critcatdigipres.github.io/2023-09_cohort-call) for further details.
 
 ### Funding
 
