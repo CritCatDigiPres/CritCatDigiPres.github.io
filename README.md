@@ -1,5 +1,15 @@
 ## Critical Cataloguing for Digital Preservation: a research commercialisation follow-on project
 
+### Announcements
+
+#### Call for Participants
+
+> Working with the project team, participants will explore their particular digital preservation needs, have access to advisory support, and join a final project workshop. The deadline for expressions of interest is Friday 10 November.
+
+> See the [call page](https://critcatdigipres.github.io/2023-09_cohort-call) for further details.
+
+### Project Details
+
 This project addresses the stewarding of digital assets within cultural and heritage organisations. Although the technical problems associated with this complex issue have been largely solved, two further difficulties prevent them from being adequately implemented. The first is the limited capacity of a much-pressed sector and the second is the need for increased attentiveness to the social and cultural conditions that arise from the preservation of digital artifacts. This project, drawing on original research and a scoping study of the needs of the market, will provide commercial solutions to both.
 
 Specifically, the project will maximise the impact of recently completed AHRC-funded research into justice-oriented cataloguing practices ('[Legacies of Catalogue Descriptions and Curatorial Voice: Opportunities for Digital Scholarship](https://cataloguelegacies.github.io/)', by embedding research outcomes into the development of a novel commercial activity, the **Southampton Digital Preservation Advisory Unit**. Once market ready it will offer commercial products - such as expert classes, in-house training, and retained consultancy on digital preservation - that are rooted in critical cataloguing practices to a target market of small- to medium- sized GLAM institutions, community heritage groups, and civic and commericial organisations.
@@ -23,14 +33,6 @@ preservation metadata within the digital preservation lifecycle.
 ### People
 
 The project is led by **[James Baker](https://www.southampton.ac.uk/people/5yrbp5/doctor-james-baker)**, Professor of Digital Humanities at the [School of Humanities](https://www.southampton.ac.uk/humanities/index.page), [University of Southampton](https://www.southampton.ac.uk/).
-
-### Announcements
-
-#### Call for Participants
-
-> Working with the project team, participants will explore their particular digital preservation needs, have access to advisory support, and join a final project workshop. The deadline for expressions of interest is Friday 10 November.
-
-> See the [call page](https://critcatdigipres.github.io/2023-09_cohort-call) for further details.
 
 ### Funding
 
