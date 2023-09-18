@@ -2,7 +2,7 @@
 
 ### Announcements
 
-**Call for Participants (1o Nov deadline)**
+**Call for Participants (10 Nov deadline)**
 
 *Working with the project team, participants will explore their digital preservation needs, have access to advisory support, and join a final project workshop. The deadline for expressions of interest is Friday 10 November.*
 
