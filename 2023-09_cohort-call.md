@@ -18,4 +18,6 @@ Expressions of interest should be sent to James Baker by email at [j.w.baker@sot
 
 The deadline for expressions of interest is Friday 10 November. For an informal discussion, please contact Professor James Baker by email at [j.w.baker@soton.ac.uk](mailto:j.w.baker@soton.ac.uk).
 
+[ERGO Number TBC](https://ergo2.soton.ac.uk/).
+
 [back](./)
