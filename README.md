@@ -36,7 +36,7 @@ The project is led by **[James Baker](https://www.southampton.ac.uk/people/5yrbp
 
 ### Funding
 
-*Critical Cataloguing for Digital Preservation: a research commercialisation follow-on project* is funded under the Arts and Humanities Research Council (UK) "[Arts and Humanities-led Research Commercialisation](https://www.ukri.org/opportunity/opportunity-arts-and-humanities-led-research-commercialisation/)" scheme. Project Reference TBC. Funding value £TBC. The project is live between 1 September 2023 and 31 July 2024.
+*Critical Cataloguing for Digital Preservation: a research commercialisation follow-on project* is funded under the Arts and Humanities Research Council (UK) "[Arts and Humanities-led Research Commercialisation](https://www.ukri.org/opportunity/opportunity-arts-and-humanities-led-research-commercialisation/)" scheme. Project Reference [AH/Y005546/1](https://gtr.ukri.org/projects?ref=AH%2FY005546%2F1). Funding value £40,954. The project is live between 1 September 2023 and 31 July 2024.
 
 ### Open
 
