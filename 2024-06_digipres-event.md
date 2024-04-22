@@ -4,6 +4,8 @@ layout: default
 
 ## Join Us for 'Preserving our Digital Pasts' - A Day of Innovation and Collaboration
 
+[REGISTER HERE](https://forms.office.com/Pages/ResponsePage.aspx?id=-XhTSvQpPk2-iWadA62p2Fc3LLJ0zwpDkxVQZKLMrw1UN1NaUlBYRE4yU1I2NFE0R0VGNUZPWlJCMi4u)
+
 **When**: June 13, 2024
 
 **Where**: University of Southampton
@@ -30,5 +32,7 @@ We understand scheduling conflicts may arise, but we encourage you to share this
 We look forward to welcoming you to an inspiring day filled with learning and networking opportunities.
 
 If you have any questions or queries, please contact the project team at [digitalpreservation@soton.ac.uk](mailto:digitalpreservation@soton.ac.uk).
+
+[REGISTER HERE](https://forms.office.com/Pages/ResponsePage.aspx?id=-XhTSvQpPk2-iWadA62p2Fc3LLJ0zwpDkxVQZKLMrw1UN1NaUlBYRE4yU1I2NFE0R0VGNUZPWlJCMi4u)
 
 [back](./)
