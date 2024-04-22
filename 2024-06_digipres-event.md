@@ -8,7 +8,7 @@ layout: default
 
 **When**: June 13, 2024
 
-**Where**: University of Southampton
+**Where**: the [Digital Humanities Hub, University of Southampton](https://www.southampton.ac.uk/student-life/campuses/avenue)
 
 Greetings to all digital preservation enthusiasts!
 
