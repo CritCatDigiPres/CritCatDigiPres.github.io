@@ -4,6 +4,8 @@
 
 **Preserving our Digital Pasts: Stories, Methods, Futures (13 June 2024, University of Southampton)**
 
+[REGISTER HERE](https://forms.office.com/Pages/ResponsePage.aspx?id=-XhTSvQpPk2-iWadA62p2Fc3LLJ0zwpDkxVQZKLMrw1UN1NaUlBYRE4yU1I2NFE0R0VGNUZPWlJCMi4u)
+
 *This one-day gathering will unite professionals from digital preservation, cultural heritage, and related fields to share experiences, explore preservation methodologies, and envision future collaborations. The event, hosted by Digital Preservation Southampton, will feature a mix of talks, panel discussions, and rapid training sessions designed to educate, enlighten, and facilitate networking.*
 
 *See the [event page](https://critcatdigipres.github.io/2024-06_digipres-event) for further details on how to book your place.*
