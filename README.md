@@ -6,7 +6,7 @@
 
 *This one-day gathering will unite professionals from digital preservation, cultural heritage, and related fields to share experiences, explore preservation methodologies, and envision future collaborations. The event, hosted by Digital Preservation Southampton, will feature a mix of talks, panel discussions, and rapid training sessions designed to educate, enlighten, and facilitate networking.*
 
-*See the [event page](https://critcatdigipres.github.io/2023-09_cohort-call) for further details on how to book your place.*
+*See the [event page](https://critcatdigipres.github.io/2024-06_digipres-event) for further details on how to book your place.*
 
 ### Project Details
 
@@ -16,17 +16,12 @@ Specifically, the project will maximise the impact of recently completed AHRC-fu
 
 In previous research we have established that Galleries, Libraries, Archives, and Museums (GLAM) professionals were keen to renew, revise, and refresh their approach to metadata production and use. Initial market research has also established that there is a commercial opportunity to offer expert, hands-on, and targeted training, guidance, and support to GLAM institutions and community heritage groups in developing new forms of digital preservation best practice. By combining these two insights this rapid 11-month programme of research commercialisation activity will:
 
-- Develop a commercial model for digital preservation training, support, and advice that foregrounds the importance of
-critical cataloguing practices within the digital preservation lifecycle.
-- Establish the DigiPres Cohort: a group of individuals from GLAM institutions and community heritage groups seeking
-digital preservation training, support, and advice, the composition of which is balanced across anticipated markets,
-collection types, and ED&I considerations.
+- Develop a commercial model for digital preservation training, support, and advice that foregrounds the importance of critical cataloguing practices within the digital preservation lifecycle.
+- Establish the DigiPres Cohort: a group of individuals from GLAM institutions and community heritage groups seeking digital preservation training, support, and advice, the composition of which is balanced across anticipated markets, collection types, and ED&I considerations.
 - Stress-test methods for market delivery, pilot commercial channels, and price point tolerances in our target market.
 - Analyse data on market positioning and on commercial pilots through ongoing market intelligence gathering activities.
-- Commission a project evaluation report that measures success against objectives, reflects on lessons learned, and
-supports commercial decision making in the medium to long term.
-- Report on market need for digital preservation services that foreground critical cataloguing practices and justice-oriented
-preservation metadata within the digital preservation lifecycle.
+- Commission a project evaluation report that measures success against objectives, reflects on lessons learned, and supports commercial decision making in the medium to long term.
+- Report on market need for digital preservation services that foreground critical cataloguing practices and justice-oriented preservation metadata within the digital preservation lifecycle.
 
 *Critical Cataloguing for Digital Preservation: a research commercialisation follow-on project* is a [Southampton Digital Humanities](https://github.com/Southampton-Digital-Humanities) project. The project run between September 2023 and July 2024. The project builds on research outcomes of *Legacies of Catalogue Descriptions and Curatorial Voice: Opportunities for Digital Scholarship*, a project funded under the Arts and Humanities Research Council (UK) "[UK-US Collaboration for Digital Scholarship in Cultural Institutions: Partnership Development Grants](https://ahrc.ukri.org/funding/apply-for-funding/current-opportunities/uk-us-collaboration-for-digital-scholarship-in-cultural-institutions-partnership-development-grants-opportunity/)" scheme.
 
