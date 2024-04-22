@@ -2,11 +2,11 @@
 
 ### Announcements
 
-**Call for Participants (10 Nov deadline)**
+**Preserving our Digital Pasts: Stories, Methods, Futures (13 June 2024, University of Southampton)**
 
-*Working with the project team, participants will explore their digital preservation needs, have access to advisory support, and join a final project workshop. The deadline for expressions of interest is Friday 10 November.*
+*This one-day gathering will unite professionals from digital preservation, cultural heritage, and related fields to share experiences, explore preservation methodologies, and envision future collaborations. The event, hosted by Digital Preservation Southampton, will feature a mix of talks, panel discussions, and rapid training sessions designed to educate, enlighten, and facilitate networking.*
 
-*See the [call page](https://critcatdigipres.github.io/2023-09_cohort-call) for further details.*
+*See the [event page](https://critcatdigipres.github.io/2023-09_cohort-call) for further details on how to book your place.*
 
 ### Project Details
 
@@ -35,6 +35,8 @@ preservation metadata within the digital preservation lifecycle.
 The project is led by **[James Baker](https://www.southampton.ac.uk/people/5yrbp5/doctor-james-baker)**, Professor of Digital Humanities at the [School of Humanities](https://www.southampton.ac.uk/humanities/index.page), [University of Southampton](https://www.southampton.ac.uk/).
 
 Our Commercialisation Project Officer is Joash Johnson.
+
+Our participants include digital preservation professionals, archivists, librarians, and museum curators with digital preservation needs. They were selected following [a call for participation](https://critcatdigipres.github.io/2023-09_cohort-call)
 
 ### Funding
 
