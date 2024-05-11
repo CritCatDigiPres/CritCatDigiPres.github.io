@@ -34,7 +34,7 @@ We are particularly excited to unveil our new digital preservation assistant too
 - 12:15 **Session 3**: Introduction to the Southampton Digital Preservation AI Assistant
 - 12:30 Lunch (including facilitated use of the Southampton Digital Preservation AI Assistant
 - 13:15 **Session 4**: Reflections on the Southampton Digital Preservation AI Assistant
-- 14:00 **Session 5**: Getting started with FIXME
+- 14:00 **Session 5**: Getting started with email appraisal using [ePADD](https://www.epaddproject.org/home)
 - 15:00 **Session 6**: Interim findings from the [Critical Cataloguing for Digital Preservation](https://critcatdigipres.github.io/) project
 - 15:45 Wrap-up and Next Steps
 - 16:00 Close
