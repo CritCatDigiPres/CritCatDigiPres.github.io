@@ -43,9 +43,6 @@ We are particularly excited to unveil our new digital preservation assistant too
 
 **Get Involved**: Don’t miss out on the opportunity to share your stories of success and lessons from failures in our “One Success, One Failure” lightning talk session. Your insights could greatly benefit fellow attendees and provide real-world perspectives on the challenges and achievements in digital preservation.
 
-We understand scheduling conflicts may arise, but we encourage you to share this event with peers who might be interested in joining us.
-We look forward to welcoming you to an inspiring day filled with learning and networking opportunities.
-
 If you have any questions or queries, please contact the project team at [digitalpreservation@soton.ac.uk](mailto:digitalpreservation@soton.ac.uk).
 
 [REGISTER HERE](https://forms.office.com/Pages/ResponsePage.aspx?id=-XhTSvQpPk2-iWadA62p2Fc3LLJ0zwpDkxVQZKLMrw1UN1NaUlBYRE4yU1I2NFE0R0VGNUZPWlJCMi4u)
