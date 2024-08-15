@@ -1,15 +1,5 @@
 ## Critical Cataloguing for Digital Preservation: a research commercialisation follow-on project
 
-### Announcements
-
-**Preserving our Digital Pasts: Stories, Methods, Futures (13 June 2024, University of Southampton)**
-
-[REGISTER HERE](https://forms.office.com/Pages/ResponsePage.aspx?id=-XhTSvQpPk2-iWadA62p2Fc3LLJ0zwpDkxVQZKLMrw1UN1NaUlBYRE4yU1I2NFE0R0VGNUZPWlJCMi4u)
-
-*This one-day gathering will unite professionals from digital preservation, cultural heritage, and related fields to share experiences, explore preservation methodologies, and envision future collaborations. The event, hosted by Digital Preservation Southampton, will feature a mix of talks, panel discussions, and rapid training sessions designed to educate, enlighten, and facilitate networking.*
-
-*See the [event page](https://critcatdigipres.github.io/2024-06_digipres-event) for further details on how to book your place.*
-
 ### Project Details
 
 This project addresses the stewarding of digital assets within cultural and heritage organisations. Although the technical problems associated with this complex issue have been largely solved, two further difficulties prevent them from being adequately implemented. The first is the limited capacity of a much-pressed sector and the second is the need for increased attentiveness to the social and cultural conditions that arise from the preservation of digital artifacts. This project, drawing on original research and a scoping study of the needs of the market, will provide commercial solutions to both.
@@ -26,6 +16,10 @@ In previous research we have established that Galleries, Libraries, Archives, an
 - Report on market need for digital preservation services that foreground critical cataloguing practices and justice-oriented preservation metadata within the digital preservation lifecycle.
 
 *Critical Cataloguing for Digital Preservation: a research commercialisation follow-on project* is a [Southampton Digital Humanities](https://github.com/Southampton-Digital-Humanities) project. The project run between September 2023 and July 2024. The project builds on research outcomes of *Legacies of Catalogue Descriptions and Curatorial Voice: Opportunities for Digital Scholarship*, a project funded under the Arts and Humanities Research Council (UK) "[UK-US Collaboration for Digital Scholarship in Cultural Institutions: Partnership Development Grants](https://ahrc.ukri.org/funding/apply-for-funding/current-opportunities/uk-us-collaboration-for-digital-scholarship-in-cultural-institutions-partnership-development-grants-opportunity/)" scheme.
+
+### Events
+
+**[Preserving our Digital Pasts: Stories, Methods, Futures](https://critcatdigipres.github.io/2024-06_digipres-event)** (13 June 2024, University of Southampton) gathered professionals from digital preservation, cultural heritage, and related fields to share experiences, explore preservation methodologies, and envision future collaborations. The event, hosted by Digital Preservation Southampton, featured a mix of talks, panel discussions, and rapid training sessions designed to educate, enlighten, and facilitate networking.*
 
 ### People
 
