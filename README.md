@@ -21,6 +21,10 @@ In previous research we have established that Galleries, Libraries, Archives, an
 
 **[Preserving our Digital Pasts: Stories, Methods, Futures](https://critcatdigipres.github.io/2024-06_digipres-event)** (13 June 2024, University of Southampton) gathered professionals from digital preservation, cultural heritage, and related fields to share experiences, explore preservation methodologies, and envision future collaborations. The event, hosted by Digital Preservation Southampton, featured a mix of talks, panel discussions, and rapid training sessions designed to educate, enlighten, and facilitate networking.*
 
+### Publications
+
+- Wilson, S. (2024) “Evaluation Report: Critical Cataloguing for Digital Preservation”. Zenodo. doi: [10.5281/zenodo.13327836](doi.org/10.5281/zenodo.13327836).
+
 ### People
 
 The project is led by **[James Baker](https://www.southampton.ac.uk/people/5yrbp5/doctor-james-baker)**, Professor of Digital Humanities at the [School of Humanities](https://www.southampton.ac.uk/humanities/index.page), [University of Southampton](https://www.southampton.ac.uk/).
