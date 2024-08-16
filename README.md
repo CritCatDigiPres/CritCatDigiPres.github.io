@@ -23,7 +23,7 @@ In previous research we have established that Galleries, Libraries, Archives, an
 
 ### Publications
 
-- Wilson, S. (2024) “Evaluation Report: Critical Cataloguing for Digital Preservation”. Zenodo. doi: [10.5281/zenodo.13327836](doi.org/10.5281/zenodo.13327836).
+- Wilson, S. (2024) “Evaluation Report: Critical Cataloguing for Digital Preservation”. Zenodo. doi: [10.5281/zenodo.13327836](https://doi.org/10.5281/zenodo.13327836).
 
 ### People
 
