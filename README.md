@@ -1,5 +1,9 @@
 ## Critical Cataloguing for Digital Preservation: a research commercialisation follow-on project
 
+### Digital Preservation Southampton
+
+[Digital Preservation Southampton](https://www.southampton.ac.uk/research/institutes-centres/digital-preservation-southampton) was launched in 2025. We provide bespoke, flexible digital preservation solutions for organisations in all sectors, empowering you to safeguard your collections into the future. To find out more, visit [our webpage](https://www.southampton.ac.uk/research/institutes-centres/digital-preservation-southampton) or follow us on [LinkedIn](https://www.linkedin.com/company/digital-preservation-southampton).
+
 ### Project Details
 
 This project addresses the stewarding of digital assets within cultural and heritage organisations. Although the technical problems associated with this complex issue have been largely solved, two further difficulties prevent them from being adequately implemented. The first is the limited capacity of a much-pressed sector and the second is the need for increased attentiveness to the social and cultural conditions that arise from the preservation of digital artifacts. This project, drawing on original research and a scoping study of the needs of the market, will provide commercial solutions to both.
